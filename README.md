@@ -1,2 +1,26 @@
-# Black-Jack-Game
-A browser based Blackjack game made with JavaScript., HTML and CSS which includes random card logic, score tracking, player state management, and interactive DOM updates with a clean UI.
+# Blackjack Game 
+
+Mini BlackJack game made by using HTML, CSS, and JavaScript.
+
+## Features
+
+* Random card generation
+* Blackjack win/lose conditions
+* Interactive UI updates
+* Player chip display
+* Clean beginner-friendly JavaScript structure
+
+## Built With
+
+* HTML
+* CSS
+* JavaScript
+
+## How to Run
+
+1. Clone the repository
+2. Open `index.html` in your browser
+
+## Author
+
+Made by Geo
