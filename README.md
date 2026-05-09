@@ -23,4 +23,4 @@ Mini BlackJack game made by using HTML, CSS, and JavaScript.
 
 ## Author
 
-Made by Geo
+ Berin Geo
